@@ -1,37 +1,43 @@
-# 0nyxl | Ahmad Shdeed
-### Cybersecurity Enthusiast & Developer
+<pre align="center">
+ ██████╗ ███╗   ██╗██╗   ██╗██╗  ██╗██╗     
+██╔═══██╗████╗  ██║╚██╗ ██╔╝██║  ██║██║     
+██║   ██║██╔██╗ ██║ ╚████╔╝ ███████║██║     
+██║   ██║██║╚██╗██║  ╚██╔╝  ██╔══██║██║     
+╚██████╔╝██║ ╚████║   ██║   ██║  ██║███████╗
+ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
+</pre>
 
-Hey, I’m 0nyxl (Ahmad Shdeed)! 
-
-I’m diving into the world of cybersecurity and development with a passion for learning and building from the ground up. My goal is to understand systems at their core and solve real-world problems, one line of code at a time. Whether it's securing networks or building efficient applications, I’m all in!
-
----
-
-## 🛠 What I’m Diving Into
-
-### Languages & Logic
-* **Assembly:** Understanding the CPU and hardware instructions.
-* **C++:** Building high-performance, system-level applications.
-* **Python:** Scripting, automation, and rapid prototyping.
-
-### Systems & Infrastructure
-* **Networking:** Securing data flow and understanding protocols.
-* **Operating Systems:** Exploring Linux internals and system architecture.
+<p align="center">
+Running <a href="https://github.com/0nyxl"><b>0nyxl/kernel_v1.0.0</b></a> on <b>Fedora Linux</b><br>
+Status: <b>[ONLINE]</b> · Architecture: <b>x86_64</b> · Mode: <b>ROOT</b>
+</p>
 
 ---
 
-## 🔍 Current Interests
-* **Reverse Engineering:** Breaking down binaries to see how they tick.
-* **Network Hardening:** Defending systems against modern threats.
-* **Tool Development:** Creating custom security tools from scratch.
+### 📂 `cat ~/user_profile.cpp`
 
----
+```cpp
+#include <iostream>
+#include <skills>
+#include <mindset>
 
-## 📈 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=0nyxl&show_icons=true&theme=dark)
+class AhmadShdeed {
+public:
+    std::string username = "0nyxl";
+    std::string role = "Cybersecurity Researcher";
+    std::string specialization = "Low-Level Systems, Reverse Engineering";
+    std::string environment = "Linux / Bare Metal";
+    std::string mindset = "Break. Understand. Harden.";
 
----
+    void current_mission() {
+        std::cout << "[*] Analyzing binaries..." << std::endl;
+        std::cout << "[*] Mapping kernel attack surfaces..." << std::endl;
+        std::cout << "[*] Turning exploits into lessons..." << std::endl;
+    }
+};
 
-## 🤝 Let's Connect
-* **GitHub:** [@0nyxl](https://github.com/YOUR_USERNAME)
-* **Goal:** Solving real-world problems, one line of code at a time.
+int main() {
+    AhmadShdeed user;
+    user.current_mission();
+    return 0;
+}
