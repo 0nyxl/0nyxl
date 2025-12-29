@@ -1,12 +1,3 @@
-<pre align="center">
- ██████╗ ███╗   ██╗██╗   ██╗██╗  ██╗██╗     
-██╔═══██╗████╗  ██║╚██╗ ██╔╝██║  ██║██║     
-██║   ██║██╔██╗ ██║ ╚████╔╝ ███████║██║     
-██║   ██║██║╚██╗██║  ╚██╔╝  ██╔══██║██║     
-╚██████╔╝██║ ╚████║   ██║   ██║  ██║███████╗
- ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
-</pre>
-
 <p align="center">
 Running <a href="https://github.com/0nyxl"><b>0nyxl/kernel_v1.0.0</b></a> on <b>Fedora Linux</b><br>
 Status: <b>[ONLINE]</b> · Architecture: <b>x86_64</b> · Mode: <b>ROOT</b>
