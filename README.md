@@ -1,4 +1,3 @@
-![ViewCount](https://hits.dwyl.com/0nyxl/0nyxl.svg?style=flat-square)
 
 ### Hi there 👋 I'm Ahmad Shdeed,
 
